@@ -1,6 +1,6 @@
-# DELL C6100 Scripts
+# Dell C6100 Scripts
 
-The project includes scripts useful for managing DELL C6100 servers.
+The project includes scripts useful for managing Dell C6100 servers.
 
 ## remote-control.sh 
 
